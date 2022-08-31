@@ -10,5 +10,5 @@ Console.WriteLine(DollarZahl);
 char Dollar = Convert.ToChar(DollarZahl);
 Console.WriteLine(Dollar);
 
-
+//Aufgabe 4
 
