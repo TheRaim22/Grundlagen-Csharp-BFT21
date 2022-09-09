@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.2 Datentypen", "1.2 Datentypen\1.2 Datentypen.csproj", "{29D1D0D3-E81F-4B5E-B775-94FBD2B7717F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DatentypenKonventieren", "3DatentypenKonventieren\3DatentypenKonventieren.csproj", "{16A5E585-F1F5-45F8-A909-27A338B5FD24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3DatentypenKonventieren", "3DatentypenKonventieren\3DatentypenKonventieren.csproj", "{16A5E585-F1F5-45F8-A909-27A338B5FD24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatoren", "Operatoren\Operatoren.csproj", "{26D9F6CA-1B81-48DB-AADD-01E745AEC5B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{16A5E585-F1F5-45F8-A909-27A338B5FD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16A5E585-F1F5-45F8-A909-27A338B5FD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16A5E585-F1F5-45F8-A909-27A338B5FD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D9F6CA-1B81-48DB-AADD-01E745AEC5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D9F6CA-1B81-48DB-AADD-01E745AEC5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D9F6CA-1B81-48DB-AADD-01E745AEC5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D9F6CA-1B81-48DB-AADD-01E745AEC5B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
